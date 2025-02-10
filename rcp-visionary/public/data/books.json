@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Il Pagliaccio e il Castello di Ghiaccio",
+    "author": "Eleanor Lian",
+    "genre": "Fantasy",
+    "language": ["Italian", "English"],
+    "link": {
+      "it": "https://amzn.to/3ZDdu8T",
+      "en": "https://a.co/d/bgqWp8z"
+    },
+    "image": {
+      "it": "https://m.media-amazon.com/images/I/913gI5DF92L._SL1500_.jpg",
+      "en": "https://m.media-amazon.com/images/I/91cQ3xfgpXL._SL1500_.jpg"
+    },
+    "description": {
+      "it": "Riuscireste mai a immaginare che il dolore possa far scaturire dal nulla una corrente magica, capace di trasformare le persone in statue di ghiaccio? È quello che succede al piccolo George, che nel ghiaccio rimane intrappolato per ben diciotto anni! Coraggio, dolore, passione, fedeltà, paura e amore intrecciati, questi gli elementi chiave di un’avventura nata per risvegliare un’anima congelata nel tempo e far rinascere un cuore ferito.",
+      "en": "Can you ever imagine that pain could summon a magical current from nowhere, capable of turning people into ice statues? That's exactly what happens to little George, who remains trapped in ice for a full eighteen years! Courage, pain, passion, loyalty, fear, and love are the intertwined elements of an adventure designed to awaken a soul frozen in time and heal a wounded heart."
+    },
+    "author_bio": {
+      "en": "AUTHOR WRITER SCREENWRITER. Eleanor Lian was born in Genoa in 1980. After classical studies, she graduated with honors in Performing Arts from the D.A.M.S faculty in Imperia. She later moved to Rome, where she studied cinema and received her acting diploma from two academies, obtaining teaching accreditation in artistic subjects. She furthered her studies as a screenwriter, training with Giovanni Robbiano, Furio Scarpelli, and Romano Scavolini. Since 2009, she has been teaching acting, diction, interpretative reading, and creative writing. In 2020, she won the Crocitti International Award for Best Actress, Screenwriter, and Author in her career.",
+      "image": "https://robertocalvoproductions.com/wp-content/uploads/2023/01/Eleonora-Baliani-1-300x283.jpg"
+    }
+  },
+  {
+    "title": "L'Uomominkia",
+    "author": "Valentina Gemelli",
+    "genre": "Humor",
+    "language": ["Italian"],
+    "link": {
+      "it": "https://amzn.to/4huiAvE"
+    },
+    "image": {
+      "it": "https://m.media-amazon.com/images/I/71Yq1if+LmL._SL1500_.jpg"
+    },
+    "description": {
+      "it": "Cinquanta sfumature di materia grigia tra i capelli rossi, nata sotto il segno del Capricorno in quadratura con il mio ascendente Ariete, e già questo la dice lunga. Forse mi salva la Luna in Pesci, ma non ne sono così sicura. Una laurea in Giurisprudenza che mi è utile durante le riunioni di condominio, attrice di giorno, sceneggiatrice di sera e nel pomeriggio speaker radiofonica. Strega nella mia vita precedente ma anche in questa non scherzo."
+    },
+    "author_bio": {
+      "it": "Valentina Gemelli, attrice, sceneggiatrice, autrice e conduttrice radiofonica. Cinquanta sfumature di materia grigia tra i capelli rossi, nata sotto il segno del Capricorno in quadratura con il mio ascendente Ariete, e già questo la dice lunga. Forse mi salva la Luna in Pesci, ma non ne sono così sicura. Una laurea in Giurisprudenza che mi è utile durante le riunioni di condominio, attrice di giorno, sceneggiatrice di sera e nel pomeriggio speaker radiofonica. Strega nella mia vita precedente ma anche in questa non scherzo.",
+      "image": "https://robertocalvoproductions.com/wp-content/uploads/2025/02/Valentina-Gemelli.png"
+    }
+  }
+]
